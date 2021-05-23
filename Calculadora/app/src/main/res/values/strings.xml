@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="division">/</string>
+    <string name="multiplicacion">*</string>
+    <string name="resta">-</string>
+    <string name="suma">+</string>
+    <string name="C">C</string>
+    <string name="valor0">0</string>
+    <string name="valor1">1</string>
+    <string name="valor2">2</string>
+    <string name="valor3">3</string>
+    <string name="valor4">4</string>
+    <string name="valor5">5</string>
+    <string name="valor6">6</string>
+    <string name="valor7">7</string>
+    <string name="valor8">8</string>
+    <string name="valor9">9</string>
+    <string name="punto">.</string>
+    <string name="igual">=</string>
+    <string name="Resultat">Resultado</string>
+</resources>
